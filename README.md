@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Ujjwal  
 
-<!--
-**UjjwalMohanka/UjjwalMohanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech in Computer Engineering (AI Specialization) | 💻 Engineering Student at UV Patel College of Engineering, Ganpat University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🌱 Currently learning **AI, ML, and Full-Stack Development**  
+- 👨‍💻 Working on projects in **AI, Web Development, and Automation**  
+- 🔭 Building: **ClipGenius (AI Video Summarizer)**, Career Guidance AI, and more  
+- 🎯 Goal: To become a skilled **AI Engineer & Researcher**  
+- ⚡ Fun fact: I debug faster after coffee ☕  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:**  
+`C` `C++` `Python` `JavaScript` `Java`  
+
+**Web Development:**  
+`HTML` `CSS` `Node.js` `Express.js` `React.js`  
+
+**Databases:**  
+`MySQL` `MongoDB`  
+
+**AI/ML Tools:**  
+`TensorFlow` `PyTorch` `Scikit-learn` `Whisper AI`  
+
+**Other Tools:**  
+`Git` `GitHub` `VS Code` `Postman` `Docker`  
+
+---
+
+## 📌 Featured Projects  
+🔹 [ClipGenius](https://github.com/UjjwalMohanka/ClipGenius) – AI-powered video summarizer  
+🔹 [Career Guidance AI](https://github.com/UjjwalMohanka/code_carnival) – Resume analyzer & career recommendation system  
+🔹 [Deepfake Detector Website](#) – AI backend with image metadata extraction  
+
+---
+
+## 📊 GitHub Stats  
+![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=UjjwalMohanka&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMohanka&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+- LinkedIn: [linkedin.com/in/ujjwal](#)  
+- Portfolio: [Your Portfolio Link Here]  
+- Email: **your.email@example.com**  
+
+---
+
+⭐️ From [UjjwalMohanka](https://github.com/UjjwalMohanka)
