@@ -32,9 +32,8 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [ClipGenius](https://github.com/UjjwalMohanka/ClipGenius) – AI-powered video summarizer  
-🔹 [Career Guidance AI](https://github.com/UjjwalMohanka/code_carnival) – Resume analyzer & career recommendation system  
-🔹 [Deepfake Detector Website](#) – AI backend with image metadata extraction  
+🔹 [AI Meeting Assistant](https://github.com/UjjwalMohanka/Ai_meeting_assistant) – AI-powered meeting summarizer  
+🔹 [Unit Converters](https://github.com/UjjwalMohanka/UnitConverters) – Advance Unit Converters  
 
 ---
 
