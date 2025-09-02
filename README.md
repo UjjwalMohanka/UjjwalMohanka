@@ -6,8 +6,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently learning **AI, ML, and Full-Stack Development**  
-- 👨‍💻 Working on projects in **AI, Web Development, and Automation**  
-- 🔭 Building: **ClipGenius (AI Video Summarizer)**, Career Guidance AI, and more  
+- 👨‍💻 Working on projects in **AI, Web Development, and Automation**    
 - 🎯 Goal: To become a skilled **AI Engineer & Researcher**  
 - ⚡ Fun fact: I debug faster after coffee ☕  
 
