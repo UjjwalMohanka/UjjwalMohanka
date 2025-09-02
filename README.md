@@ -45,7 +45,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- LinkedIn: [https://www.linkedin.com/in/ujjwal-mohanka-2a5984257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)   
+- LinkedIn: [https://in.linkedin.com/in/ujjwal-mohanka-2a5984257](#)   
 - Email: **mohankaujjwal36@gmail.com**  
 
 ---
