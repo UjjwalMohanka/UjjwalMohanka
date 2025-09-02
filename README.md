@@ -45,9 +45,8 @@
 ---
 
 ## 🌐 Connect with Me  
-- LinkedIn: [linkedin.com/in/ujjwal](#)  
-- Portfolio: [Your Portfolio Link Here]  
-- Email: **your.email@example.com**  
+- LinkedIn: [linkedin.com/in/ujjwal](#)   
+- Email: **mohankaujjwal36@gmail.com**  
 
 ---
 
