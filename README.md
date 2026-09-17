@@ -1,193 +1,299 @@
-# Hi 👋, I'm Ujjwal Mohanka
+<!-- ===================== HEADER ===================== -->
 
-### 🎓 BTech Computer Engineering (AI) | 🤖 AI/ML Enthusiast | 🧠 RAG & NLP Developer
+<div align="center">
 
-I'm a Computer Engineering student at **UV Patel College of Engineering, Ganpat University**, passionate about building practical AI systems that solve real-world problems.
+# 👋 Hey, I'm **Ujjwal Mohanka**
 
-Currently exploring **Generative AI, Retrieval-Augmented Generation (RAG), NLP, Machine Learning, and intelligent software systems.**
+### `AI Engineer in Progress` · `RAG Builder` · `ML Enthusiast` · `Problem Solver`
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+that+actually+does+something.;Exploring+RAG+%7C+LLMs+%7C+NLP+%7C+Machine+Learning;Turning+ideas+into+working+projects.;Currently+building+LegalRAG+%F0%9F%94%8E" />
 
-## 🚀 About Me
+<br>
 
-* 🎓 BTech Computer Engineering — **AI Specialization**
-* 🤖 Focused on **AI/ML, Generative AI, RAG & NLP**
-* 🧠 Building AI systems that combine **LLMs + Retrieval + structured data**
-* 🔬 Currently working on **LegalRAG — an AI-powered Legal Document Assistant**
-* 💻 Experienced with Python, Java, JavaScript and modern AI/ML frameworks
-* 🛠️ Interested in **AI Engineering, Data Science and Applied ML**
-* 🏆 Participated in multiple hackathons and technical events
-* ☕ Debugging gets easier after coffee
+<a href="https://github.com/UjjwalMohanka">
+<img src="https://komarev.com/ghpvc/?username=UjjwalMohanka&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</a>
+
+</div>
 
 ---
 
-## 🧠 Currently Working On
+## 🧠 `whoami`
 
-### ⚖️ LegalRAG — AI-Powered Legal Document Assistant
+```python
+class Ujjwal:
 
-A **Retrieval-Augmented Generation (RAG)** system designed for grounded question-answering over legal documents.
+    role = "Computer Engineering Student"
+    specialization = "Artificial Intelligence"
 
-**Pipeline:**
+    interests = [
+        "Generative AI",
+        "RAG",
+        "LLMs",
+        "NLP",
+        "Machine Learning",
+        "Data Science"
+    ]
 
-`PDF/DOCX → Document Parsing → Semantic Chunking → Embeddings → Vector Search → Retrieval → LLM → Verified Answer + Citations`
+    currently_building = "LegalRAG"
 
-### Key Features
+    philosophy = "Learn → Build → Break → Fix → Repeat"
 
-* 📄 PDF & DOCX document ingestion
-* 🔍 Semantic document retrieval
-* 🧠 Retrieval-Augmented Generation
-* 📑 Page-level source citations
-* 🛡️ Relevance filtering before LLM generation
-* ✅ Citation verification after answer generation
-* 🚫 "Not Found" responses when supporting evidence is unavailable
-* 📚 Multi-document analysis
-* ⚖️ Legal clause extraction
-* 🔄 Document comparison
-* 🗂️ Persistent conversation/history
-
-### Tech Stack
-
-`Python` `LangChain` `FastAPI` `React` `Vite` `Tailwind CSS`
-
-`Sentence Transformers` `ChromaDB` `FAISS` `Gemini`
-
-`PostgreSQL` `SQLAlchemy` `Docker` `GitHub Actions`
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-`Python` `C` `C++` `Java` `JavaScript` `SQL`
-
-### 🤖 AI / Machine Learning
-
-`Machine Learning` `Deep Learning` `NLP`
-
-`Scikit-learn` `TensorFlow` `PyTorch`
-
-`LangChain` `RAG` `LLMs` `Sentence Transformers`
-
-### 🔎 Generative AI / Retrieval
-
-`Retrieval-Augmented Generation`
-
-`Semantic Search` `Vector Databases`
-
-`Embeddings` `FAISS` `ChromaDB`
-
-`Prompt Engineering` `LLM Evaluation`
-
-### 🌐 Web Development
-
-`React.js` `Vite` `Node.js` `Express.js`
-
-`HTML` `CSS` `Tailwind CSS` `FastAPI`
-
-### 🗄️ Databases
-
-`PostgreSQL` `MySQL` `MongoDB`
-
-`ChromaDB` `FAISS`
-
-### ⚙️ Tools & Platforms
-
-`Git` `GitHub` `Docker` `VS Code`
-
-`Postman` `Linux` `GitHub Actions`
-
----
-
-## 📌 Featured Projects
-
-### ⚖️ LegalRAG — Legal Document Assistant
-
-**AI • RAG • NLP • LLMs**
-
-An evidence-grounded AI assistant for analyzing legal documents using Retrieval-Augmented Generation, semantic embeddings, vector search and citation verification.
-
----
-
-### 📦 AI-Based Smart Inventory — Demand Prediction System
-
-**Machine Learning • Python • Data Science**
-
-An AI-powered inventory system that uses historical data to predict demand and support smarter inventory management.
-
----
-
-### 🛒 Smart AI Shopping Assistant
-
-**AI • E-Commerce • Recommendation Systems**
-
-An AI-powered shopping assistant designed to help users discover and evaluate products intelligently.
-
----
-
-### 💼 AI Career Path Advisor
-
-**AI • Data Analysis • Web Development**
-
-An AI-driven platform that analyzes skills, career interests and market information to provide personalized career-path guidance.
-
----
-
-## 📊 What I'm Learning
-
-```text
-Generative AI
-     ↓
-LLMs & Prompt Engineering
-     ↓
-RAG & Vector Databases
-     ↓
-NLP & Semantic Search
-     ↓
-AI Agents & Advanced Retrieval
-     ↓
-Production AI Systems
+    status = "🚀 Building things that solve real problems"
 ```
 
 ---
 
-## 🎯 2026 Goals
+# ⚡ Current Mission
 
-* 🚀 Build production-ready AI applications
-* 🧠 Go deeper into RAG, NLP and LLM architectures
-* 🔬 Learn advanced retrieval and evaluation techniques
-* ☁️ Improve AI deployment & MLOps skills
-* 📚 Contribute to open-source AI projects
-* 💼 Prepare for AI/ML engineering internships
+> **Build practical AI systems instead of just training notebooks.**
+
+Right now I'm diving deep into **Retrieval-Augmented Generation (RAG)** and building systems that can actually **retrieve evidence, reason over documents, and generate grounded answers.**
+
+### 🔥 Current Project
+
+## ⚖️ LegalRAG
+
+**An AI-powered legal document intelligence system.**
+
+```text
+       📄 Legal Documents
+              │
+              ▼
+      ┌─────────────────┐
+      │ Document Parser │
+      └────────┬────────┘
+               ▼
+      🧩 Semantic Chunking
+               │
+               ▼
+       🧠 Embeddings
+               │
+               ▼
+       🔎 Vector Search
+               │
+               ▼
+        📚 Retrieval
+               │
+               ▼
+          🤖 LLM
+               │
+               ▼
+     ┌──────────────────┐
+     │ Grounded Answer  │
+     │ + Source Citation│
+     └──────────────────┘
+```
+
+### What I'm exploring
+
+`Semantic Chunking` · `Embeddings` · `Vector Search` · `Reranking`
+
+`LLMs` · `Prompt Engineering` · `Citation Verification`
+
+`RAG Evaluation` · `Multi-document Retrieval`
 
 ---
 
-## 📈 GitHub Stats
+# 🛠️ My Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalMohanka&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalMohanka&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMohanka&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br>
+
+`Scikit-learn` `LangChain` `RAG` `NLP` `LLMs`
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,html,css,js" />
+
+### 🗄️ Data
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+`NumPy` `Pandas` `Matplotlib` `Power BI` `Tableau`
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Builds
 
-<p align="left">
-  <a href="https://github.com/UjjwalMohanka">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ujjwal-mohanka-2a5984257/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<table>
+<tr>
+
+<td width="50%">
+
+## ⚖️ LegalRAG
+
+**AI × Legal Documents × RAG**
+
+An evidence-grounded system for querying and analyzing legal documents.
+
+**Core:**
+`Python` `LangChain` `Embeddings` `Vector DB` `LLM`
+
+</td>
+
+<td width="50%">
+
+## 📦 Smart Inventory AI
+
+**ML × Demand Prediction**
+
+Predicts product demand and helps optimize inventory decisions using historical data.
+
+**Core:**
+`Python` `Pandas` `Scikit-learn` `ML`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🛒 Smart Shopping Assistant
+
+**AI × E-Commerce**
+
+An intelligent shopping assistant designed to help users discover and evaluate products.
+
+**Core:**
+`AI` `NLP` `React` `Node.js`
+
+</td>
+
+<td width="50%">
+
+## 💼 Career Path AI
+
+**AI × Career Intelligence**
+
+Analyzes skills and interests to help users explore possible career paths.
+
+**Core:**
+`Python` `AI` `Data Analysis`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 💡 Building with AI. Learning by doing. 🚀
+# 🧪 Currently Learning
 
-⭐ Feel free to explore my repositories and projects!
+```text
+                    ┌───────────────┐
+                    │   GENERATIVE  │
+                    │      AI       │
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │      LLMs     │
+                    └───────┬───────┘
+                            │
+             ┌──────────────▼──────────────┐
+             │             RAG              │
+             └──────────────┬──────────────┘
+                            │
+             ┌──────────────▼──────────────┐
+             │    Retrieval + Embeddings   │
+             └──────────────┬──────────────┘
+                            │
+             ┌──────────────▼──────────────┐
+             │     Production AI Systems   │
+             └─────────────────────────────┘
+```
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UjjwalMohanka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalMohanka&theme=tokyonight&hide_border=true" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMohanka&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/UjjwalMohanka/UjjwalMohanka/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🏆 Highlights
+
+<div align="center">
+
+|        🎓 Education        |      🤖 Focus      |   🏆 Experience  |
+| :------------------------: | :----------------: | :--------------: |
+| BTech Computer Engineering |       AI / ML      |    Hackathons    |
+|      AI Specialization     |     RAG / LLMs     | Technical Events |
+|          CGPA 9.26         | NLP / Data Science |    Open Source   |
+
+</div>
+
+---
+
+# 🎯 2026 → 2027
+
+```diff
++ Build production-grade AI applications
++ Master RAG & LLM architectures
++ Learn advanced retrieval & evaluation
++ Explore AI Agents
++ Improve MLOps & deployment
++ Contribute to open source
++ Build projects worth talking about
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/UjjwalMohanka">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ujjwal-mohanka-2a5984257/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💭 *"Don't just learn AI. Build with it."*
+
+<br>
+
+**⚡ Python • 🤖 AI • 🔎 RAG • 🧠 ML • 🚀 Open Source**
+
+</div>
